@@ -15,7 +15,6 @@ Technologies Used
 - Backend: Node.js, Express.js, MongoDB, Mongoose
 - Frontend: EJS templating engine, HTML, CSS, JavaScript
 - Image Uploads: Cloudinary
-- Authentication: Passport.js or custom sessions (mention what you used)
 - Others: dotenv for environment variables, express-session for session management
 
 
